@@ -9846,6 +9846,12 @@ textarea.form-control.is-invalid {
 .bg-medwhite {
   background-color: #fbf7ef !important;
 }
+.bg-medyellow {
+  background-color: #ECBB5B !important;
+}
+.bg-medblue {
+  background-color: #5BB7BE !important;
+}
 
 .bg-gray {
   background-color: #f6f7f9 !important;
