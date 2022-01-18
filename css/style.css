@@ -9673,6 +9673,9 @@ textarea.form-control.is-invalid {
 }
 
 /* rtl:end:remove */
+.text-medblue {
+  color: #5BB7BE !important;
+}
 .text-blue {
   color: #3f78e0 !important;
 }
