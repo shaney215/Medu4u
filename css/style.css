@@ -30971,7 +30971,7 @@ fieldset:disabled .btn.btn-circle {
 
   .navbar:not(.transparent) .navbar-nav>.nav-item:not(.language-select)>.dropdown-menu,
   .navbar.fixed .navbar-nav>.nav-item>.dropdown-menu {
-    margin-top: 0.75rem !important;
+    
   }
 
   .navbar.extended:not(.fixed) .navbar-nav>.nav-item.language-select>.dropdown-menu {
